@@ -1,2 +1,7 @@
-# Learn
-Learn Web
+## Learn, have to
+
+
+- Python refactoring
+- Web
+- Python Function Program
+
